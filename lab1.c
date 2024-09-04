@@ -13,7 +13,7 @@
 
 int main () {
 
-int age;
+int age; 
 int height;
 int grade;
   
